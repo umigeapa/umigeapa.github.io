@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://umigeapa.github.io/Lho/sitemap_index.txt
+Sitemap: https://umigeapa.github.io/ksI/sitemap_index.txt
+Sitemap: https://umigeapa.github.io/rOF/sitemap_index.txt
+Sitemap: https://umigeapa.github.io/uNl/sitemap_index.txt
